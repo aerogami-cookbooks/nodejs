@@ -9,5 +9,3 @@ version          '0.1.0'
 recipe 'nodejs', 'Installs nodejs'
 
 supports 'ubuntu'
-
-depends 'apt'
